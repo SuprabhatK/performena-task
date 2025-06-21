@@ -1,4 +1,4 @@
-##Registration Form App
+## Registration Form App
 
 An animated, multi-step registration form built using React, with:
 
@@ -14,7 +14,7 @@ Custom error handling
 
 Thank-you screen on submission
 
-##Features
+## Features
 Step-by-step field collection
 
 Field-level validation (name, phone, email, etc.)
@@ -29,7 +29,7 @@ Custom animations (shake, slide)
 
 Thank-you confirmation on final submit
 
-##Technologies Used
+## Technologies Used
 React (with Hooks)
 
 CSS Animations
