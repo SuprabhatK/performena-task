@@ -1,12 +1,53 @@
-# React + Vite
+##Registration Form App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An animated, multi-step registration form built using React, with:
 
-Currently, two official plugins are available:
+Progressive inputs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Validation
 
-## Expanding the ESLint configuration
+Editable summary
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+LocalStorage data persistence
+
+Custom error handling
+
+Thank-you screen on submission
+
+##Features
+Step-by-step field collection
+
+Field-level validation (name, phone, email, etc.)
+
+Summary view with Edit & Save
+
+Data saved to localStorage
+
+Prevent duplicate email registration
+
+Custom animations (shake, slide)
+
+Thank-you confirmation on final submit
+
+##Technologies Used
+React (with Hooks)
+
+CSS Animations
+
+LocalStorage API
+
+Vercel (for deployment)
+
+##Setup Instructions
+
+# Clone the repo
+git clone https://github.com/SuprabhatK/performena-task.git
+
+# Navigate into the folder
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm start
